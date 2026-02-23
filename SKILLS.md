@@ -1,6 +1,12 @@
 ---
 name: minions-social-accounts
-description: Account definitions, platforms, namespaces/purposes, and API keys
+id: OC-0159
+version: 1.0.0
+description: "Account definitions, platforms, namespaces/purposes, and API keys"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-social-accounts — Agent Skills
