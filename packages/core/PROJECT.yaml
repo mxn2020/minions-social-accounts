@@ -6,3 +6,4 @@ description: "Account definitions, platforms, namespaces/purposes, and API keys"
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
