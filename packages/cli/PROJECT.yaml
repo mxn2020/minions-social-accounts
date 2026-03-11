@@ -1,0 +1,8 @@
+name: "@minions-social-accounts/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-social-accounts-workspace
+description: "CLI for minions-social-accounts — Account definitions, platforms, namespaces/purposes, and API keys"
+priority: high
+deploy_url: null
+tags: null

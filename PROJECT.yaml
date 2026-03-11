@@ -1,0 +1,15 @@
+name: minions-social-accounts-workspace
+project_scope: main
+project_type: monorepo
+description: "Account definitions, platforms, namespaces/purposes, and API keys"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-social-accounts"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, social, accounts]
+notes: null
+id: 902ce383-ffca-4660-a01a-53e0a4d2f2f9
